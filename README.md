@@ -5,7 +5,7 @@
   - [Using Wireshark and a SIEM (Splunk to Analyse and Investigate a Remote intrusion Attempt]
   - [Examining a Compromised Host Memory and Performing Forensic Disk Examination Using Volatility, Atom, Autopsy and Registry Explorer in a Virtualized DFIR Workstation.]
   - [Exploit and Fix a Website Vulnerability Using Burpe Suite and John the Ripper ]
-  - [Analyze Malicious Network Behaviour Analyze Malicious Network Traffic using Snort and Wireshark]
+  - [Analyze Malicious Network Traffic using Snort and Wireshark]
     
 
 <h2>📺 Cybersecurity Home-lab Projects</h2>
