@@ -14,6 +14,7 @@
 
 
 <h2>📺 Coding Projects</h2>
+ - [Building a Product Landing Page with HTML and CSS]
 
 
 <h2>📺 Certifications</h2>
