@@ -9,13 +9,16 @@
     
 
 <h2>📺 Cybersecurity Home-lab Projects</h2>
+- [Virtual Cybersecurity Lab Building]
+
 
 
 <h2>📺 Coding Projects</h2>
 
 
-<h2>📺 Certifications</h2
-   -[Cybersecurity Defence Certificate: University of Texas @ Austin]
+<h2>📺 Certifications</h2>
+ - [Cybersecurity Defence Certification: University of Texas @Austin]
+   
 
 
 
