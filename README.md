@@ -19,7 +19,8 @@
 
 <h2>📺 Certifications</h2>
  - [Cybersecurity Defence Certification: University of Texas @Austin]https://github.com/Alexoa4/Alexoa4/issues/1#issue-1977244096 <br>
- - [Cybersecurity Defence Certification: University of Texas @Austin]
+ - [Developer Certification]https://github.com/Alexoa4/Alexoa4/assets/105945708/a1836051-d499-43cb-a67b-3791b1310cfa
+
    
 
 
