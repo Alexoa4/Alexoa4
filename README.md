@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexander! </br><a href="https://github.com/Alexoa4">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Alexander! </br><a href="https://github.com/Alexoa4">Cybersecurity Professional</a>, <a href="https://github.com/Alexoa4">Programmer</a></h1>
 
 
 
