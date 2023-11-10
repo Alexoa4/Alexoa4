@@ -9,7 +9,7 @@
     
 
 <h2>📺 Cybersecurity Home-lab Projects</h2>
-- [Virtual Cybersecurity Lab Building](https://github.com/Alexoa4/Virtual-Lab/tree/main)
+- [Virtual Cybersecurity Lab Building](https://github.com/Alexoa4/Virtual-Lab/tree/main).
 
 
 
