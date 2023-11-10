@@ -1,6 +1,6 @@
-<h1>Hi, I'm Alexander! </br><a href="https://github.com/Alexoa4">Cybersecurity Professional</a>
+<h1>Hi, I'm Alexander! </br><a href="https://github.com/Alexoa4">Cybersecurity Professional</a></h1>
 
-<h2>Cybersecurity Professional, Programmer</h2>
+
 
 <h2>👨‍💻 Cybersecurity Defence Projects:</h2>
 
