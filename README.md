@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alexander! </h1>
 
+<h2>Cybersecurity Professional, Programmer</h2>
+
 <h2>👨‍💻 Cybersecurity Defence Projects:</h2>
 
   - [Using Wireshark and a SIEM (Splunk) to Analyse and Investigate a Remote Intrusion Attempt](https://github.com/Alexoa4/Remote-intrusion/tree/main)
