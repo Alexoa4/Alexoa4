@@ -16,10 +16,9 @@
 
 <h2>📺 Coding Projects</h2>
 
- - [Building a Product Landing Page with HTML and CSS](https://github.com/Alexoa4/Product-Landing-Page)
- <br>
- 
- - [Building a Personal Portfolio Website](https://github.com/Alexoa4/Personal-Portfolio-Website) 
+ - [Building a Product Landing Page with HTML and CSS](https://github.com/Alexoa4/Product-Landing-Page)<br>
+ - [Building a Personal Portfolio Website](https://github.com/Alexoa4/Personal-Portfolio-Website)<br>
+ - [Building a Responsive Email template]()
 
 
 <h2>📺 Certifications</h2>
