@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Defence Projects:</h2>
 
   - [Using Wireshark and a SIEM (Splunk) to Analyse and Investigate a Remote Intrusion Attempt](https://github.com/Alexoa4/Remote-intrusion/tree/main)
-  - [Examining a Compromised Host Memory and Performing Forensic Disk Examination Using Volatility, Atom, Autopsy, and Registry Explorer in a Virtualized DFIR Workstation.]
+  - [Examining a Compromised Host Memory and Performing Forensic Disk Examination Using Volatility, Atom, Autopsy, and Registry Explorer in a Virtualized DFIR Workstation.](https://github.com/Alexoa4/Forensic-Disc-Analysis/tree/main)
   - [Exploit and Fix a Website Vulnerability Using Burp Suite and John the Ripper in a Virtualized Environment]
   - [Analyze Malicious Network Traffic using Snort and Wireshark]
     
